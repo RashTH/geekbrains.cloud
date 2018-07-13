@@ -8,11 +8,5 @@ public class Controller {
     @FXML
     TextArea textArea;
 
-    public void btnClickMeAction() {
-        System.out.println("Java");
-    }
 
-    public void btn2Click() {
-        textArea.appendText("Java\n");
-    }
 }

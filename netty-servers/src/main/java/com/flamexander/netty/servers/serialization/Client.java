@@ -14,7 +14,6 @@ public class Client {
         int a;
         int b;
         byte[] arr;
-
         public Msg(int a, int b) {
             this.a = a;
             this.b = b;

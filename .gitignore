@@ -15,3 +15,4 @@ javacore_lesson_7/out/production/javacore_lesson_7/ru/geekbrains/server/ClientHa
 javacore_lesson_7/out/production/javacore_lesson_7/ru/geekbrains/server/Main.class
 javacore_lesson_7/out/production/javacore_lesson_7/ru/geekbrains/server/Server.class
 NioChatServer/out/production/NioChatServer/NiochatServer.class
+*.class
